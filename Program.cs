@@ -10,6 +10,20 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello,\t World!");
+            Console.WriteLine("Hello,\b World!");
+            Console.WriteLine("Hello,\f World!");
+            /*
+            \b
+            \f
+            \n
+            \r
+            \t
+            \v
+            \\
+            \'
+            \"
+            */
         }
     }
 }
